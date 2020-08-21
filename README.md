@@ -2,6 +2,9 @@
 
 We will be building up an application that creates Color Blocks on the DOM based off of buttons that are loaded right away. Additionally, we are going to be tracking the number of Blocks in each color we create. When the user clicks on a color button, it will create a Color Block, then add to that colors count.
 
+#  Accompanying Flexbox video:
+https://vimeo.com/450198088
+
 ## Part 1: HTML/CSS
 
 ### Assignment Objectives
