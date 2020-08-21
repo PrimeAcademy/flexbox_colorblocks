@@ -1,0 +1,30 @@
+#target{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#btnWrap{
+  display: flex;
+  justify-content: space-evenly;
+}
+.box {
+  height: 100px;
+  width: 100px;
+  margin: 5px;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
